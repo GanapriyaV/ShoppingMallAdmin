@@ -1,0 +1,5 @@
+package com.tnsif.config;
+
+public class CorsConfig {
+
+}
